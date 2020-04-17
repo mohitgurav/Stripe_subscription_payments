@@ -1,6 +1,6 @@
 // Create a Stripe client.
 
-var stripe = Stripe('pk_test_gOh7rxyNe3hVg5A6WL6rOCxv00j6Etrmg6');
+var stripe = Stripe('<ENTER YOUT TEST PUBLISHABLE STRIPE API KEY HERE>');
 
   // Create an instance of Elements.
   var elements = stripe.elements();
